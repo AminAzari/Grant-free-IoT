@@ -1,2 +1,3 @@
-This is the supporting repository of the following paper:
-http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-238676
+This is the supporting repository for analyzing performance of CFO-triggered SIC based reciver for grant-free IoT access.
+https://arxiv.org/pdf/1709.02179.pdf
+
